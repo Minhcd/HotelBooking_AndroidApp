@@ -1,1 +1,1 @@
-This Android app use for one Hotel onlye
+This Android app use for one Hotel only!
